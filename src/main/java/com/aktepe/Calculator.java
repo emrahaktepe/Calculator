@@ -16,7 +16,7 @@ public class Calculator {
         return num1 + num2;
     }
 
-    // Multiply two integers and retuns the result
+    // Multiply two integers and returns the result
     public static int Multiply(int num1, int num2) {
         return num1 * num2;
     }
